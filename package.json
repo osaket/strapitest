@@ -1,5 +1,7 @@
 {
   "dependencies": {
-    "lts": "^1.2.0"
+    "lts": "^1.2.0",
+    "pg": "^8.8.0",
+    "pg-connection-string": "^2.5.0"
   }
 }
